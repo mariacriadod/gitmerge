@@ -1,2 +1,3 @@
 <? phpinfo()
 entre medias
+otro
